@@ -1,1 +1,5 @@
 This is a new file to make sure I know how to add that too.
+
+use git push -u origin master        the first time 
+
+and git [push/pull] origin master  after that
